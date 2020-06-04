@@ -1,2 +1,2 @@
 # FASHION MNIST
-<img src="fashionMNIST.git">
+<img src="fashionMNIST.gif">
